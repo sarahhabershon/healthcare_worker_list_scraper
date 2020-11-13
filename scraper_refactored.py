@@ -77,12 +77,26 @@ russia["source"] = "Russian_list"
 #attach all the dfs together
 total = in_memoriam.append(italian_doctors).append(outside_russia).append(russia)
 
-#revise country column to identify US states
+#identify US states
 states = ["Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York","North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming"]
 
 total["USA"] = total["country"].isin(states)
 total["country_or_us_state"] = total["country"]
 total.loc[total.USA == True, "country"] = "USA"
+
+#horrible hardcoded cleanup
+total["country"] = total["country"].str.partition('(')
+total["country"] = total["country"].str.strip()
+
+total.loc[total['country_or_us_state'].str.contains("Mold"),'country'] = 'Moldova'
+total.loc[total['country_or_us_state'].str.contains("Dominic"),'country'] = "Dominican Republic"
+total.loc[total['country_or_us_state'].str.contains("England"),'country'] = 'England'
+# total.loc[total['country_or_us_state'].str.contains("New York"),'country'] = 'USA'
+total.loc[total['country_or_us_state'].str.contains("xico"),'country'] = 'Mexico'
+total.loc[total['country_or_us_state'].str.contains("ppines"),'country'] = 'Philippines'
+total.loc[total['country_or_us_state'].str.contains("Indon"),'country'] = 'Indonesia'
+
+
 
 #check for duplicates, remove, keep as separate file for checking
 duplicates = total.loc[total[['name', 'age', 'country']].duplicated(), :]
@@ -93,5 +107,5 @@ grouped = total.groupby(['country'])['name'].agg('count')
 
 #create csv output
 duplicates.to_csv('duplicates.csv')
-grouped.to_csv("groupingtest.csv")
+grouped.to_csv("country_count.csv")
 total.to_csv("merged_crowdsourced_lists.csv")
