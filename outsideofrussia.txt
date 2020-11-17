@@ -5,8 +5,8 @@ Alexandruk Tamara , 67 years old, gynecologist, Maternity Hospital Balti, Moldov
 Antipova Natalia , 42 years old, nurse, Vitebsk emergency hospital, Vitebsk, Belarus
 Balaban Vyacheslav Georgievich , 69 years old, obstetrician-gynecologist, Tiraspol, Pridnestrovian-Moldavian Republic
 Baranov Ion Petru , 65 years old, family doctor, Health Center, Soroca region, Moldova
-Bargan Fedor Dmitrievich , 45 years old, infectious disease doctor, Comrat district hospital, Comrat, Moldova
-Bezrodnaya Galina , 70 years old, family doctor, Polyclinic Ungheni, Moldova
+Bargan Fedor Dmitrievich , 45 years old, infectious disease doctor, Comrat regional hospital, Comrat, Moldova
+Galina bezrodnaya , 70 years old, family doctor, Polyclinic Ungheni, Moldova
 Belinov Maxim Yurievich , 47 years old, anesthesiologist-resuscitator, Odessa city hospital, Odessa, Ukraine
 Bespalov Yuri Ivanovich , 81 years old, psychiatrist, Almaty, Kazakhstan
 Twin Valentina Grigorievna , 56 years old, nurse, Rechitsa Central Regional Hospital, Rechitsa, Belarus
@@ -18,19 +18,19 @@ Boyan Gavril Maksimovich , 74 years old, surgeon, N.N. N. Georgiu, Moldova
 Vangeli Tudor , 67 years old, anesthesiologist, LechSanUpra Hospital, Chisinau, Moldova
 Vasilache Ion , physician, director of the Health Center, Rud, Soroca, Moldova
 Venzhinovich Ivan Fedorovich , 51 years old, therapist, Pochaev Regional Clinical Hospital, Ternopil region, Ukraine
-Voivodic Dragan , 61, nephrologist, Internal Medicine Clinic, University Clinical Center, Serbia
+Voivodic Dragan , 61, nephrologist, Internal Medicine Clinic of the University Clinical Center, Serbia
 Gaida Ivan Mikhailovich , 58 years old, Head of the Lviv Military Hospital, Military Medical Clinical Center of the Western Region, Ukraine
 Gaida Oleg Mikhailovich, 52 years old, head. surgical department of the polyclinic, Cherkasy, Ukraine
 Garasimyak Zhanna , 48 years old, junior nurse, 1st city clinical hospital, Lviv, Ukraine
 Ghimpu Tatiana , 57 years old, nurse, district hospital in Briceni, Moldova
 Glumcher Felix Semenovich , 71 years old, Professor, Head of the Department of Anesthesiology and Intensive Care, National Medical University. A.A. Bogomolets, Kiev, Ukraine
-Godoroja Vera , 62 years old, paramedic, Emergency Medical Service, Causeni, Moldova
+Godorozha Vera , 62 years old, paramedic, Ambulance service, Causeni, Moldova
 Golichenko Viktor Anatolievich , 60 years old, therapist, Podolsk, Odessa region, Ukraine
-Alla Gortolomey , 65 years old, family doctor, p. Tsaul, Donduseni district, Moldova
+Gortolomey Alla , 65 years old, family doctor, p. Tsaul, Donduseni district, Moldova
 Gorchinski Nikolay , 78 years old, doctor, head of the department of epidemiology, Soroca, Moldova
 Grigorevich Alla , 40 years old, nurse, Minsk, Belarus
 Grosu Veronica , 61 years old, head of the department of family doctors, polyclinic No. 1, Chisinau, Moldova
-Grosu Constantin , 68 years old, anesthesiologist-resuscitator, Hospital "Holy Trinity", Chisinau, Moldova
+Grosu Constantin , 68 years old, anesthesiologist-resuscitator, hospital "Holy Trinity", Chisinau, Moldova
 Hrytsiv Bogdana , 41 years old, X-ray laboratory assistant, Kalush district hospital, Ivano-Frankivsk region, Ukraine
 Gudumak Tamara , 61 years old, laboratory assistant, hospital, Edinet, Moldova
 Gurina Natalya Nikolaevna , 50 years old, head nurse, Tevelskaya BSU, Kobrin district, Brest region, Belarus
@@ -38,7 +38,7 @@ Huseynov Gasham , 62 years old, pediatrician, Ambulance station No. 9, Baku, Aze
 Dabija Ion , 66 years old, psychiatrist, Psychiatric Hospital, Balti, Moldova
 Daraban Dumitru , 62 years old, neurologist, Balti Hospital, Moldova
 Demerji Vasily Demyanovich , 75 years old, physiotherapist, Comrat Central Regional Hospital, Comrat city, Gagauzia, Moldova
-Dzyuba Teodoziya Petrovna , Chief Nurse of the Surgical Department, Ternopil University Hospital, Ukraine
+Dzyuba Teodoziya Petrovna , Senior Nurse of the Surgical Department, Ternopil University Hospital, Ukraine
 Dolgan Ludmila , 53 years old, nurse, Falesti district, Republic of Moldova
 Dear Igor , 55 years old, endoscopic surgeon, Moldova
 Doroshenko Lyudmila Nikolaevna, 77 years old, obstetrician-gynecologist, 7th city clinical hospital, women's consultation, Dnipro, Ukraine
@@ -46,39 +46,39 @@ Ismailov Albert , 59 years old, phthisiatrician, Family Medicine Center, Kara-Ku
 Zarezako Valeria Aleksandrovna, 21 years old, nurse, Children's Infectious Diseases Clinical Hospital, Minsk, Belarus
 Zakala Igor Stepanovich , oncosurgeon, Precarpathian Clinical Oncological Center, Ivano-Frankivsk, Ukraine
 Zarubskaya Svetlana , 50 years old, nurse, Klimovichi Central Regional Hospital, Klimovichi, Belarus
-Zubritskiy Mikhail Grigorievich , 51 years old, pathologist, head of the Grodno Regional Clinical Pathological Bureau, Grodno, Belarus
+Zubritsky Mikhail Grigorievich , 51 years old, pathologist, head of the Grodno Regional Clinical Pathological Bureau, Grodno, Belarus
 Ischuk Alexander, 51 years old, anesthesiologist, Rivne regional hospital, Ukraine
 Kamerzan Minodora , 47 years old, nurse, Cancer Institute, Chisinau, Moldova
 Kaminsky Vasily Yurievich , 46 years old, internist, Center for Clinical Medicine of Ivano-Frankivsk Medical University, Ukraine
 Kandyba Stelyan Ivanovich , surgeon, Holy Trinity Hospital, Chisinau, Moldova
 Carayon Ludmila , 65 years old, ambulance doctor, Soroca, Moldova
 Karpuk Lyubov Petrovna , 77 years old, obstetrician-gynecologist, Kobrin, Brest region, Belarus
-Karlyuk Natalya , 54 years old, nurse, Center for Correctional and Developmental Education and Rehabilitation, Pinsk, Brest region, Belarus
+Karlyuk Natalya , 54 years old, nurse, Center for Correction and Development Education and Rehabilitation, Pinsk, Brest region, Belarus
 Kepta Igor Vasilievich , 57 years old, orthopedist-rheumatologist, Falesti, Moldova
-Maria Kiper , 61, pharmacist, Medical Department of the Ministry of Internal Affairs, Moldova
+Maria Kiperi , 61, pharmacist, Medical Department of the Ministry of Internal Affairs, Moldova
 Kirichenko Nikolay Nikolaevich , 67 years old, chief sanitary doctor of Tulchinsky district, Vinnytsia region, Ukraine
 Kiseleva Svetlana Gennadievna , 47 years old, nurse, City Clinical Hospital No. 1, Vitebsk, Belarus
 Kovalenok Tatyana Nikolaevna , 60 years old, nurse, Borisov Central Hospital, Borisov, Belarus
 Kovalyuk Igor , 57 years old, chief physician of an ambulance, Ivano-Frankivsk, Ukraine
 Kokumbaeva Zhuzumkan Asanovna , 58 years old, head of the Family Medicine Center No. 3, Bishkek, Kyrgyzstan
-Kozbagarov Kalikhan , 59 years old, chief physician, Infectious Diseases Hospital, Aktobe, Kazakhstan
+Kozbagarov Kalikhan , 59 years old, chief physician, Infectious Disease Hospital, Aktobe, Kazakhstan
 Kolodko Viktor , 58 years old, neuropathologist, deputy director, Vinnitsa Regional Clinical Hospital named after N. Pirogova
 Vera Konstantinova , 70 years old, nurse in a polyclinic, Bendery, Moldova
 Krivoy Valeriy , obstetrician-gynecologist, Soroca, Moldova
-Kril Roman Iosifovich , 70 years old, senior paramedic at the ambulance substation, Lviv Regional Center for Emergency Medical Aid, Ukraine
+Kril Roman Iosifovich , 70 years old, senior paramedic of the ambulance substation, Lviv Regional Center for Emergency Medical Aid, Ukraine
 Kunitskaya Lyudmila , 64 years old, radiologist, 2nd city hospital, Vitebsk, Belarus	
 Kunitskiy Vladimir Sergeevich , 62 years old, otorhinolaryngologist, Vitebsk State Medical University, head. Department of Otorhinolaryngology, Vitebsk, Belarus
 Lazic Miodrag , 64 years old, surgeon, Emergency Center in Nis, Serbia
 Li Ivan Ivanovich , 60 years old, chief physician, city multidisciplinary hospital No. 2, Nur-Sultan, Kazakhstan
 Lipilin Vasily Georgievich , 51 years old, paramedic of the SMP, Borisov, Belarus
-Lisitsa Vitaliy Petrovich , 52 years old, chief physician, Tulchinsk central district hospital, Vinnytsia region, Ukraine
+Lisitsa Vitaliy Petrovych , 52 years old, chief physician, Tulchinsk central district hospital, Vinnytsia region, Ukraine
 Litvinski Ekaterina , 79 years old, emergency doctor, Chisinau, Moldova
 Lungu Lidia , 68 years old, nurse, Ambulance station, Falesti, Moldova
 Lupashko Lubov , 59 years old, nurse in a polyclinic, Vadul lui Voda, Moldova
 Lysenko Vladimir , 68 years old, paramedic of an ambulance, s. Ustye-Zelenoe, Ternopil region, Ukraine
 Lyubinskaya Maria , 60 years old, assistant nurse, Lung Health Center, Lviv
 Maysyuk Elena Sergeevna , 55 years old, nurse, Baranovichi maternity hospital, Baranovichi, Belarus
-Mamaliga Narcisa , 52 years old, doctor, Ministry of Health, Chisinau, Moldova
+Mamaliga Narcissa , 52 years old, doctor, Ministry of Health, Chisinau, Moldova
 Mangyr Elena , 57 years old, paramedic of an ambulance, s. Carpineni, Hancesti, Moldova
 Markovic Dragan , 62 years old, vascular surgeon, Clinical Center of Serbia
 Martyniuc Grigore , 61, traumatologist, Balti Hospital, Moldova
@@ -86,7 +86,7 @@ Oleg Nikitovich Marchenko , 58 years old, cardiologist, Kramatorsk, Donetsk regi
 Machuga Victoria , 45 years old, nurse of the pulmonology department, Institute of Mother and Child, Chisinau, Moldova
 Mikhalchuk Galina Trofimovna , 70 years old, sanitary doctor, head of the Lviv laboratory center, Ukraine
 Mihova Valentina , 62 years old, nurse at the Republican Hospital, Chisinau, Moldova
-Alexey Navrotsky , 48 years old, resuscitator, 4th city hospital, Lugansk, LPR
+Alexey Navrotskiy , 48 years old, resuscitator, 4th city hospital, Lugansk, LPR
 Nagachevski Leonid , neurosurgeon, Emergency Hospital, Chisinau, Moldova
 Nurgalieva Gulnazym Nasibullinovna , 63 years old, pediatrician, Almaty, Kazakhstan
 Orlov Igor Borisovich , 71 years old, senior physician of the emergency dispatch department, Lviv ambulance station, Ukraine
@@ -94,22 +94,24 @@ Ostalsky Bogdan Romanovich , 60 years old, pediatrician, chief specialist of the
 Pavalache Vera , 58 years old, nurse, Republican Narcological Dispensary, Chisinau, Moldova
 Panaitova (Belchu) Vera Kirillovna , 66 years old, narcologist, hospital in Ceadir-Lunga, Gagauzia, Moldova
 Pashko Elena , 54 years old, therapist, Polyclinic No. 3, Baranovichi, Belarus
-Petrulyak Vasily , 63, ambulance driver, National Center for Prehospital Emergency Medicine, Chisinau, Moldova
+Petrulyak Vasiliy , 63, ambulance driver, National Center for Prehospital Emergency Medicine, Chisinau, Moldova
 Popa Gheorghe , 70 years old, dentist, Ungheni District Hospital, Moldova
+Popescu Inna , doctor, head of the Soroca Noue polyclinic, Moldova
 Popushoi Zinaida , 67 years old, nurse, Orhei Hospital, Moldova
 Popushoi Maria , 65 years old, radiologist, regional hospital, Cimislia, Moldova
-Postaru Snezana , 41 years old, nurse, Cahul regional hospital, Moldova
-Preotesa Michael , 65 years old, general practitioner, head of the department of therapy, Anenii Noi hospital, Moldova
+Poshtar Snezana , 41 years old, nurse, Cahul regional hospital, Moldova
+Preotesa Mikhail , 65 years old, general practitioner, head of the department of therapy, Anenii Noi hospital, Moldova
 Pripa Valeriy , 59 years old, radiologist, Chisinau, Moldova
 Prikhodko Irina Pavlovna, 73 years old, pediatrician, City Children's Clinic, Ivano-Frankivsk, Ukraine
-Pepushoi Jacob , 66 years old, traumatologist, Cimislia Regional Hospital, Moldova
+Papusoi Jacob , 66, traumatologist, Cimislia Regional Hospital, Moldova
 Rajabboev Jurakul Rajabboev, neurosurgeon, Dushanbe, Tajikistan
 Radkevich Oksana , 45 years old, nurse, Dokshitsa Central Regional Hospital, Vitebsk region, Belarus
+Rozhnov Tatiana, Senior Nurse of the 	Department of Premature Infants, Ivano-Frankivsk Regional Children's Hospital, Ivano-Frankivsk, Ukraine
 Romanas Liviu , 59 years old, anesthesiologist-resuscitator, Edinet Hospital, Moldova
 Rotaru Corneliu , 46, urologist, Emergency Hospital, Chisinau, Moldova
-Rozhnov Tatiana, Senior Nurse of the 	Department of Premature Infants, Ivano-Frankivsk Regional Children's Hospital, Ivano-Frankivsk, Ukraine
+Rotaru Natalia , 57 years old, doctor, head of the Department of Radiology Med. University, Chisinau, Moldova
 Rushescu Dina , 61 years old, infectious disease specialist , Clinical Hospital No. 1, Chisinau, Moldova
-Savenko Vasily Alekseevich , 60 years old, urologist, director of the Center for Primary Medical Care, Starosambir Center of Primary Health Care, Lviv region, Ukraine
+Savenko Vasily Alekseevich , 60 years old, urologist, director of the Center for Primary Medical Care, Starosambir Primary Health Care Center, Lviv region, Ukraine
 Savich Leonid Anatolyevich , 54 years old, radiologist, Lyuban Central Regional Hospital, Lyuban, Belarus
 Sandu Vera , 57 years old, pharmacist at the Hancesti Hospital, Moldova
 Saryev Murat Zharylgapovich, 57 years old, director of the Zhanaozen multidisciplinary hospital, Zhana Ozen, Kazakhstan
@@ -121,7 +123,7 @@ Smirnova Ludmila , 65 years old, neurologist, Center for Mother and Child, Chisi
 Solomon Yuri , 45 years old, surgeon, Children's Hospital. V. Ignatenko, Chisinau, Moldova
 Stati Ion , 57 years old, doctor, head. Department of Functional Diagnostics, Hospital Orhei, Moldova
 Stoyko Lyudmila Stepanovna , 56 years old, nurse, Ivanovo CRH, Ivanovo, Brest region, Belarus
-Stretila Mihai , 70 years old, obstetrician-gynecologist, Institute of Mother and Child, Head of the Center for Health and Reproductology, Chisinau, Moldova
+Stretile Mihai , 70, obstetrician-gynecologist, Institute of Mother and Child, Head of the Center for Health and Reproductology, Chisinau, Moldova
 Suvak Elena , 53 years old, midwife, Ialoveni Hospital, Moldova
 Sultanov Sherali Rakhmonovich, head. Department of Pediatric Surgery, Anesthesiology and Reanimatology, Dushanbe, Tajikistan
 Sirbu Vasile , 65 years old, doctor-endoscopist, Balti hospital, Moldova
@@ -135,9 +137,10 @@ Fomina Nadezhda Viktorovna , 41 years old, nurse, Vitebsk Regional Clinical Hosp
 Hanganu Ion , 72 years old, family doctor, Ungheni region, Moldova
 Hassan Al Kastal , 50, therapist, Mersa, Matruh, Egypt
 Khriptulov Vasily Vladimirovich , 80 years old, neurologist, Uman, Ukraine
-Khudaev Anton , 48 years old, sports doctor, doctor of the Ukrainian national football team and Metalist-1925, Ukraine
+Khudaev Anton , 48 years old, sports doctor, doctor of the Ukrainian national football team and "Metalist-1925", Ukraine
+Hirbu Vasile , 70 years old, traumatologist, Donduseni hospital, Moldova	
 Shiman Ivan (Ion) , 68 years old, Orhei Regional Hospital, Moldova
-Shlyakhtitskiy Ivan Dmitrievich , 72 years old, surgeon, Ceadir-Lungskaya district hospital, Moldova
+Shlyakhtitskiy Ivan Dmitrievich , 72 years old, surgeon, Ceadir-Lunga district hospital, Moldova
 Shmatko Natalia , 56 years old, nurse, emergency hospital, Minsk, Belarus
 Sholokh Pavel Ivanovich , 53 years old, urologist, Presidential Clinic of the Medical Center of the Administrative Department, Kazakhstan
 Yuzich Galina , 55 years old, nurse of the Department of Vascular Surgery, Lviv Regional Clinical Hospital, Lviv, Ukraine

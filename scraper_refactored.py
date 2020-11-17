@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 #sources - note that the Russian list can't be translated before scraping; translate the page and then copy and paste the lists (there are two, one of Russian deaths and one of deaths outside Russia) into text files - russia.txt and outsideofrussia.txt
 medscape = "https://www.medscape.com/viewarticle/927976"
 italian_list = "https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/"
-# russian_list = "https://sites.google.com/view/covid-memory/home?authuser=0"
+russian_list = "https://sites.google.com/view/covid-memory/home?authuser=0"
 
 
 
@@ -50,7 +50,14 @@ italian_doctors["country"]="Italy"
 italian_doctors["source"]="Italian list"
 
 
-## russian list - comes from txt files pasted from translated site. Gross, I know.
+russian_arr = []
+page = requests.get(russian_list)
+soup = BeautifulSoup(page.content, "html.parser")
+for x in soup.findAll("li", attrs = {"class": "TYR86d zfr3Q"}):
+	print(x.text)
+	russian_arr.append(x)
+
+## translate the russian page into English, then copy and paste its domestic and international lists into text files to maintain the translation.
 outside_rus = []
 with open('outsideofrussia.txt', 'r') as f:
 	for line in f:
@@ -72,6 +79,17 @@ outside_russia["source"] = "Russian_list"
 russia = pd.DataFrame(rus, columns=["name", "age"])
 russia['country'] = 'Russia'
 russia["source"] = "Russian_list"
+
+
+#check that the text files are fresh by comparing to the length of the Russian list
+russ_count = len(russia.index)
+ex_rus_count = len(outside_russia.index)
+
+print(russ_count + ex_rus_count)
+print(len(russian_arr))
+
+if (russ_count + ex_rus_count) < len(russian_arr):
+	print("there are missing values in the Russian text files")
 
 
 #attach all the dfs together
