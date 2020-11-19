@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 medscape = "https://www.medscape.com/viewarticle/927976"
 italian_list = "https://portale.fnomceo.it/elenco-dei-medici-caduti-nel-corso-dellepidemia-di-covid-19/"
 russian_list = "https://sites.google.com/view/covid-memory/home?authuser=0"
-
+indonesian_list = "https://nakes.laporcovid19.org/"
 
 
 #scrape medscape list, remove extraneous rows, create df
@@ -37,24 +37,25 @@ in_memoriam["country"] = in_memoriam["country"].str.strip()
 
 
 ## scrape italian list, split and create df
-itlian_arr = []
+italian_arr = []
 page = requests.get(italian_list)
 soup = BeautifulSoup(page.text, "html.parser")
 names = soup.find('ol')
 output = names.findAll('li')
 for x in output:
-	itlian_arr.append(x.text.replace("\n", '†').split('†'))
+	italian_arr.append(x.text.replace("\n", '†').split('†'))
 
-italian_doctors = pd.DataFrame(itlian_arr, columns=["name", "date_reported", "notes"])
+italian_doctors = pd.DataFrame(italian_arr, columns=["name", "date_reported", "notes"])
 italian_doctors["country"]="Italy"
 italian_doctors["source"]="Italian list"
 
 
+#there's something off with the scraping of the Russian list; findAll() doesn't actually find them all, it loses a handfull and I can't figure out which ones, nor why.
+#possible solution to try later: https://stackoverflow.com/questions/8049520/web-scraping-javascript-page-with-python might allow post-translation scraping?
 russian_arr = []
 page = requests.get(russian_list)
 soup = BeautifulSoup(page.content, "html.parser")
 for x in soup.findAll("li", attrs = {"class": "TYR86d zfr3Q"}):
-	print(x.text)
 	russian_arr.append(x)
 
 ## translate the russian page into English, then copy and paste its domestic and international lists into text files to maintain the translation.
@@ -88,12 +89,24 @@ ex_rus_count = len(outside_russia.index)
 print(russ_count + ex_rus_count)
 print(len(russian_arr))
 
-if (russ_count + ex_rus_count) < len(russian_arr):
+if (russ_count + ex_rus_count) < len(russian_arr): 
 	print("there are missing values in the Russian text files")
 
 
+#load names from the Indonesian list -- note that these required extensive cleaning by hand because the name on the site are separated by and also contain commas, and there was no quick solution to scrape them. If I get time I'll try to improve this. Many are identified only by a single name.
+indo = []
+with open('indo.txt') as f:
+    for line in f:
+        tableentry = [line.strip()]
+        indo.append(tableentry)
+
+
+indonesia = pd.DataFrame(indo, columns=["name"])
+indonesia["country"] = "Indonesia"
+indonesia["source"] = "Indonesia list"
+
 #attach all the dfs together
-total = in_memoriam.append(italian_doctors).append(outside_russia).append(russia)
+total = in_memoriam.append(italian_doctors).append(outside_russia).append(russia).append(indonesia)
 
 #create extra column for sorting out countries
 total["country_or_us_state"] = total["country"]
@@ -130,6 +143,7 @@ total = total.drop_duplicates(subset = ['name', 'age', 'country'])
 
 #count
 grouped = total.groupby(['country'])['name'].agg('count')
+
 
 #create csv output
 duplicates.to_csv('duplicates.csv')
